@@ -1,4 +1,3 @@
-package Tugasqu;
 public class BukuTulis {
     private int jumlahLembar = 50;
     private int kataPerLembar = 400;
