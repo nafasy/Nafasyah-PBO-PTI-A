@@ -1,10 +1,16 @@
 # 📁 Tugas 5 : Encapsulation
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Nafasyah Rizky Anandita           
+NIM  : 235150607111005
+
+## Class Diagram yang Dibuat
+1. Customer
+2. Transaksi
+
+Dengan program yang dibuat interaktif, sehingga pengguna bisa memasukkan inputannya.
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+https://youtu.be/DADPelb272c
+https://youtu.be/uloM_FAQWVc
