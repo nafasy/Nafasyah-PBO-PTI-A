@@ -1,8 +1,8 @@
 # 📁 Tugas 6 : Inheritance
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Nafasyah Rizky Anandita             
+NIM  : 235150607111005
 
 ## 🔗 Link Penjelasan Tugas
 
