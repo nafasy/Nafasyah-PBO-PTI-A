@@ -1,8 +1,7 @@
 # 📁 Tugas 8 : Upcasting Downcasting
 
-## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+## 👤 INafasyah Rizky Anandita             
+NIM  : 235150607111005
 
 ## 🔗 Link Penjelasan Tugas
 
