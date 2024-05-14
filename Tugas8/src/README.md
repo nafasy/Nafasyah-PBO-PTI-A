@@ -1,6 +1,7 @@
 # 📁 Tugas 8 : Upcasting Downcasting
 
-## 👤 INafasyah Rizky Anandita             
+## 👤 Identitas Intern:
+Nama : Nafasyah Rizky Anandita             
 NIM  : 235150607111005
 
 ## 🔗 Link Penjelasan Tugas
